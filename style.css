@@ -305,6 +305,11 @@ img {
   margin-left: 1rem;
 }
 
+.menu_deco1 {
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
 .navparent {
   display: flex;
   justify-content: center;
